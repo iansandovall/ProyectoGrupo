@@ -1,4 +1,4 @@
-print("Proyecto colaborativo del equipo")
+print("Proyecto colaborativo - Módulo de saludo")
 
 def menu():
     print("1. Saludar")
