@@ -1,4 +1,4 @@
-print("Proyecto colaborativo del equipo")
+print("Proyecto colaborativo - Módulo de saludo")
 
 def menu():
     print("1. Saludar")
@@ -6,3 +6,7 @@ def menu():
     print("3. Realizar operación")
 
 menu()
+
+def saludar():
+    nombre = input("Ingresa tu nombre: ")
+    print("Hola,", nombre)
