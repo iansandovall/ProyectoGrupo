@@ -1,8 +1,7 @@
-print("Proyecto colaborativo del equipo")
+print("Proyecto colaborativo - Módulo de integrantes")
 
-def menu():
-    print("1. Saludar")
-    print("2. Mostrar integrantes")
-    print("3. Realizar operación")
-
-menu()
+def mostrar_integrantes():
+    print("Integrantes del equipo:")
+    print("- Integrante 1")
+    print("- Integrante 2")
+    print("- Integrante 3")
