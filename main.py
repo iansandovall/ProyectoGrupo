@@ -6,3 +6,7 @@ def menu():
     print("3. Realizar operación")
 
 menu()
+
+def saludar():
+    nombre = input("Ingresa tu nombre: ")
+    print("Hola,", nombre)
